@@ -4,6 +4,7 @@ body {
   background-image: url('https://arpel.eu/de/4542-thickbox_default/tatami-floor.jpg');
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 
 * {
